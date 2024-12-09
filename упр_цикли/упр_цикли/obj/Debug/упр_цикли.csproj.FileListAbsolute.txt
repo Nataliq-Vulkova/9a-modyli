@@ -1,0 +1,7 @@
+C:\Users\1409-12\Desktop\Наталия 9а\упр_цикли\упр_цикли\bin\Debug\упр_цикли.exe.config
+C:\Users\1409-12\Desktop\Наталия 9а\упр_цикли\упр_цикли\bin\Debug\упр_цикли.exe
+C:\Users\1409-12\Desktop\Наталия 9а\упр_цикли\упр_цикли\bin\Debug\упр_цикли.pdb
+C:\Users\1409-12\Desktop\Наталия 9а\упр_цикли\упр_цикли\obj\Debug\упр_цикли.csproj.AssemblyReference.cache
+C:\Users\1409-12\Desktop\Наталия 9а\упр_цикли\упр_цикли\obj\Debug\упр_цикли.csproj.CoreCompileInputs.cache
+C:\Users\1409-12\Desktop\Наталия 9а\упр_цикли\упр_цикли\obj\Debug\упр_цикли.exe
+C:\Users\1409-12\Desktop\Наталия 9а\упр_цикли\упр_цикли\obj\Debug\упр_цикли.pdb

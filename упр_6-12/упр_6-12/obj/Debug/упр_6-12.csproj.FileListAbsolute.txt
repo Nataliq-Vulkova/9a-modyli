@@ -1,0 +1,7 @@
+C:\Users\1409-12\Desktop\Наталия 9а\упр_6-12\упр_6-12\bin\Debug\упр_6-12.exe.config
+C:\Users\1409-12\Desktop\Наталия 9а\упр_6-12\упр_6-12\bin\Debug\упр_6-12.exe
+C:\Users\1409-12\Desktop\Наталия 9а\упр_6-12\упр_6-12\bin\Debug\упр_6-12.pdb
+C:\Users\1409-12\Desktop\Наталия 9а\упр_6-12\упр_6-12\obj\Debug\упр_6-12.csproj.AssemblyReference.cache
+C:\Users\1409-12\Desktop\Наталия 9а\упр_6-12\упр_6-12\obj\Debug\упр_6-12.csproj.CoreCompileInputs.cache
+C:\Users\1409-12\Desktop\Наталия 9а\упр_6-12\упр_6-12\obj\Debug\упр_6-12.exe
+C:\Users\1409-12\Desktop\Наталия 9а\упр_6-12\упр_6-12\obj\Debug\упр_6-12.pdb

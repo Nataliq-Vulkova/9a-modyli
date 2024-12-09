@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "упр_цикли", "упр_цикли\упр_цикли.csproj", "{D5B9E3D1-A294-4AF1-856B-3BD620301799}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dolari", "dolari\dolari.csproj", "{0B98F6CB-BA43-45FD-B735-4F8C296DDBC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "piramida", "..\piramida\piramida.csproj", "{79306A59-E6BC-4295-890F-EE529D16DAB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5B9E3D1-A294-4AF1-856B-3BD620301799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B9E3D1-A294-4AF1-856B-3BD620301799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B9E3D1-A294-4AF1-856B-3BD620301799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B9E3D1-A294-4AF1-856B-3BD620301799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B98F6CB-BA43-45FD-B735-4F8C296DDBC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B98F6CB-BA43-45FD-B735-4F8C296DDBC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B98F6CB-BA43-45FD-B735-4F8C296DDBC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B98F6CB-BA43-45FD-B735-4F8C296DDBC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79306A59-E6BC-4295-890F-EE529D16DAB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79306A59-E6BC-4295-890F-EE529D16DAB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79306A59-E6BC-4295-890F-EE529D16DAB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79306A59-E6BC-4295-890F-EE529D16DAB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {489D38DE-0F42-4FEC-B988-E928E5379F51}
+	EndGlobalSection
+EndGlobal

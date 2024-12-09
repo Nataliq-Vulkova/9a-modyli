@@ -1,0 +1,7 @@
+C:\Users\1409-12\Desktop\Наталия 9а\упр_цикли\dolari\bin\Debug\dolari.exe.config
+C:\Users\1409-12\Desktop\Наталия 9а\упр_цикли\dolari\bin\Debug\dolari.exe
+C:\Users\1409-12\Desktop\Наталия 9а\упр_цикли\dolari\bin\Debug\dolari.pdb
+C:\Users\1409-12\Desktop\Наталия 9а\упр_цикли\dolari\obj\Debug\dolari.csproj.AssemblyReference.cache
+C:\Users\1409-12\Desktop\Наталия 9а\упр_цикли\dolari\obj\Debug\dolari.csproj.CoreCompileInputs.cache
+C:\Users\1409-12\Desktop\Наталия 9а\упр_цикли\dolari\obj\Debug\dolari.exe
+C:\Users\1409-12\Desktop\Наталия 9а\упр_цикли\dolari\obj\Debug\dolari.pdb

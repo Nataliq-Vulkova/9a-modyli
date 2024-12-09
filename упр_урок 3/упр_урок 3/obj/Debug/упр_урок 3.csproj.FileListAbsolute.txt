@@ -1,0 +1,7 @@
+C:\Users\1409-12\Desktop\Наталия 9а\упр_урок 3\упр_урок 3\bin\Debug\упр_урок 3.exe.config
+C:\Users\1409-12\Desktop\Наталия 9а\упр_урок 3\упр_урок 3\bin\Debug\упр_урок 3.exe
+C:\Users\1409-12\Desktop\Наталия 9а\упр_урок 3\упр_урок 3\bin\Debug\упр_урок 3.pdb
+C:\Users\1409-12\Desktop\Наталия 9а\упр_урок 3\упр_урок 3\obj\Debug\упр_урок 3.csproj.AssemblyReference.cache
+C:\Users\1409-12\Desktop\Наталия 9а\упр_урок 3\упр_урок 3\obj\Debug\упр_урок 3.csproj.CoreCompileInputs.cache
+C:\Users\1409-12\Desktop\Наталия 9а\упр_урок 3\упр_урок 3\obj\Debug\упр_урок 3.exe
+C:\Users\1409-12\Desktop\Наталия 9а\упр_урок 3\упр_урок 3\obj\Debug\упр_урок 3.pdb
